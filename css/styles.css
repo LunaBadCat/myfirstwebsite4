@@ -1,0 +1,40 @@
+/* Tag selector */
+body{
+    background-color: gold;
+}
+p{
+    color: purple;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: brown;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: brown;
+    border-width: 5px;
+    width: 30%;}
+img{
+    background-color: blanchedalmond;
+}
+/* class */
+.mushroom{
+    background-color: blanchedalmond;
+}
+/* วงกลม */
+.cirrcular{
+    border-radius: 100%;
+}
+.round{
+    border-radius: 150%;
+}
+#heading{
+    color: aquamarine;
+    font-style: italic;
+}
+p{
+    font-size: 30;
+}
